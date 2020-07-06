@@ -1,4 +1,4 @@
 Resolusi Fauzi
-- belajar mongo db
 - konek mongodb dengan codeigniter
 - CRUD dengan mongoDB
+- mongoDB di server
