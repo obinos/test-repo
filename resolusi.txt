@@ -1,0 +1,3 @@
+Resolusi Fauzi
+- belajar mongo db
+- konek mongodb dengan codeigniter
